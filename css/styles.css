@@ -1,0 +1,25 @@
+.animal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.animal p {
+  width: 75%;
+  text-align: justify;
+  margin: 0;
+}
+
+img {
+  max-width: 250px;
+  height: auto;
+}
+
+.animal div {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
